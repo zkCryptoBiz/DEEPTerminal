@@ -9422,7 +9422,7 @@ You can type your message directly to chat with AI.`,
           SECURE SYSTEMS`,
         clear: "CLEAR_COMMAND",
         dexs: "https://dexscreener.com/solana/Y7wCy1xy1cNNEwLjHJi4gWyngiryFaoCBmqaAX88HGs",
-        dext: "https://www.dextools.io/app/en/solana/pair-explorer/",
+        dext: "https://www.dextools.io/app/en/solana/pair-explorer/BgmirZ1ym285UthpfbhBX3VgT2y14wNJ5nmX82bCuF4c",
         ca: "Y7wCy1xy1cNNEwLjHJi4gWyngiryFaoCBmqaAX88HGs",
         tg: "t.me/AIDeepTerminal",
         x: "x.com/AIDeepTerminal"
