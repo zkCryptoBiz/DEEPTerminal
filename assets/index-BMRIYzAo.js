@@ -9421,9 +9421,9 @@ You can type your message directly to chat with AI.`,
     █▄▄█   █▄▄█ |  AIDEEP TERMINAL
           SECURE SYSTEMS`,
         clear: "CLEAR_COMMAND",
-        dexs: "https://dexscreener.com/solana/xxxxxxxxxxx",
+        dexs: "https://dexscreener.com/solana/jsSGTn1ANEWZir1Ap6oZRJQ6YXhirGoJYG895QkZtus",
         dext: "https://www.dextools.io/app/en/solana/pair-explorer/",
-        ca: "xxxxxxxxxxx",
+        ca: "jsSGTn1ANEWZir1Ap6oZRJQ6YXhirGoJYG895QkZtus",
         tg: "t.me/AIDeepTerminal",
         x: "x.com/AIDeepTerminal"
       };
@@ -9524,7 +9524,7 @@ You can type your message directly to chat with AI.`,
             M.jsx("button", {
               onClick: () =>
                 window.open(
-                  "https://dexscreener.com/solana/xxxxxxxxxxx",
+                  "https://dexscreener.com/solana/jsSGTn1ANEWZir1Ap6oZRJQ6YXhirGoJYG895QkZtus",
                   "_blank"
                 ),
               className:
